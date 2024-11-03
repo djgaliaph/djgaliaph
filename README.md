@@ -7,8 +7,8 @@
 - ⚡ Fun fact: ...
 
 - Links:  https://sites.google.com/view/djgaliaph
-        https://facebook.com/djgaliaph
-        https://youtube.com/djgalia
+    -    https://facebook.com/djgaliaph
+    -    https://youtube.com/djgalia
 
 <!---
 djgaliaph/djgaliaph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
